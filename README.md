@@ -7,4 +7,4 @@
 Для установки библиотеки выполните следующие шаги:
 
 1. Склонируйте репозиторий или скачайте архив с исходным кодом.
-   git clone https://github.com/yourusername/geometry_shapes.git
+   git clone https://github.com/Axoniuss/geometry_shapes.git
