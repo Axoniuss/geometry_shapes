@@ -1,4 +1,4 @@
-from geometry_shapes.shapes import Circle, Triangle, ShapeFactory
+from task1_shapes.shapes import Circle, Triangle, ShapeFactory
 
 
 def main():
